@@ -1,0 +1,74 @@
+body{
+    background-color: lightyellow;
+}
+#main-content{
+    padding: 0;
+    width: 100%;
+    margin: 5px;
+}
+.navbar-brand{
+    height: 100px;
+    padding-left: 20px;
+    
+}
+#header-nav{
+    background-color: yellow;
+}
+@media (max-width:768px)
+{
+    #header-nav #collapsable-nav{
+    background-color: yellowgreen;
+    border: 1px solid #000;
+}
+}
+
+#collapsable-nav #nav-list{
+    text-align: center;
+    font: 1.5em;
+    border: 0;
+    margin: 0;
+}
+
+#para0{
+    width:99%;
+    background-color: greenyellow;
+    color: white;
+    margin: 0 0 1% .7%;
+    padding: 5px;
+    height: 1000px;
+}
+#para1{
+    width:98%;
+    background-color: greenyellow;
+    color: white;
+    margin: 2%;
+    padding: 5px;
+}
+#para2{
+    width: 98%;
+    background-color: greenyellow;
+    color: white;
+    margin:5px ;
+    padding: 5px;
+}
+#para3{
+    width: 98%;
+    background-color: greenyellow;
+   color: white;
+   margin:5px ;
+   padding: 5px;
+}
+
+
+.description{
+   
+}
+.description h2{
+    font: extra-bold;
+    text-align: center;
+}
+.description des-text{
+    margin: 1px;
+}
+
+
